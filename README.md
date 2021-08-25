@@ -1,0 +1,1 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caique-dourado)](https://git.io/streak-stats)
