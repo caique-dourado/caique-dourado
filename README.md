@@ -11,7 +11,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
 
 
-![Status](https://github-readme-stats.vercel.app/api?username=caique-dourado&theme=dark)&nbsp;[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-dourado&layout=compact&theme=dark)](https://github.com/caique-dourado)
+![Status](https://github-readme-stats.vercel.app/api?username=caique-dourado&theme=dark)&nbsp;&nbsp;[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-dourado&layout=compact&theme=dark)](https://github.com/caique-dourado)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
