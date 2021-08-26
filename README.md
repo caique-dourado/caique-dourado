@@ -21,3 +21,6 @@
 <a href="https://linkedin.com/in/caique-dourado-a1431a185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caique.dourado" height="30" width="30" /> </a> 
 <a href="https://instagram.com/caique.dourado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caique.dourado" height="30" width="30" /></a>
 </p>
+
+
+![Status](https://github-readme-stats.vercel.app/api?username=caique-dourado&theme=dark) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-dourado&layout=compact&theme=dark)](https://github.com/caique-dourado)
