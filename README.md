@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> </p>
 
 <h3 align="left">Data base:</h3>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a>
 
 
 ![Status](https://github-readme-stats.vercel.app/api?username=caique-dourado&theme=dark) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caique-dourado&layout=compact&theme=dark)](https://github.com/caique-dourado)
